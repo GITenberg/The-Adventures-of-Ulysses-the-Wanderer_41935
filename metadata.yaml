@@ -1,0 +1,47 @@
+_repo: The-Adventures-of-Ulysses-the-Wanderer_41935
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Mein, Will G.
+    aliases:
+    - Mein, W. G.
+    - Mein, William Gordon
+    birthdate: 1868
+    deathdate: 1939
+    gutenberg_agent_id: '41433'
+    url: http://www.gutenberg.org/2009/agents/41433
+covers:
+- cover_type: archival
+  image_path: 41935-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Thorne, Guy
+    alias: Gull, Cyril Arthur Edward Ranger
+    birthdate: 1875
+    deathdate: 1923
+    gutenberg_agent_id: '38288'
+    url: http://www.gutenberg.org/2009/agents/38288
+    wikipedia: http://www.gutenberg.org/ebooks/author/39349
+  - agent_name: Homer
+    alias: Όμηρος
+    birthdate: -750
+    deathdate: -650
+    gutenberg_agent_id: '705'
+    url: http://www.gutenberg.org/2009/agents/705
+    wikipedia: http://en.wikipedia.org/wiki/Homer
+description: ''
+gutenberg_issued: '2013-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41935'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mythology, Greek'
+- !lcc 'BL'
+- !lcsh 'Homer. Odyssey -- Adaptations'
+- !lcsh 'Odysseus, King of Ithaca (Mythological character)'
+title: The Adventures of Ulysses the Wanderer
+url: http://www.gutenberg.org/ebooks/41935
